@@ -1,0 +1,20 @@
+{
+  "name": "geta-eslint-config",
+  "version": "1.0.0",
+  "description": "default eslint config to be used on geta frontend projects",
+  "main": "index.js",
+  "repository": "https://github.com/Geta/eslint-config.git",
+  "author": "Eirik Horvath <eirik@geta.no>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.6.0",
+    "@typescript-eslint/parser": "^2.6.0",
+    "eslint": "^6.6.0",
+    "eslint-config-prettier": "^6.5.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-prettier": "^3.1.1",
+    "eslint-plugin-react": "^7.16.0",
+    "eslint-plugin-react-hooks": "^2.2.0"
+  }
+}
